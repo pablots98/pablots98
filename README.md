@@ -3,7 +3,7 @@
 ## About me
 - 📚 Systems Biology student at Maastricht University.
 - 🔍 Doing my internship in Modeling Metabolism.
-- 🌱 Learning about MATLAB, R and Python.
+- 🌱 Knowledge of MATLAB, R and Python.
 
 ## Contact
 - 📫 [pablotejero1998@gmail.com](mailto:pablotejero1998@gmail.com)
