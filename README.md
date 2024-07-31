@@ -1,4 +1,4 @@
-### Mi name is Pablo, a Systems Biology student at maastricht university. My passion is, thanks to the help of computers, to be able to help improve current medical techniques and achieve personalized medicine.
+### My name is Pablo, a Systems Biology student at maastricht university. My passion is, thanks to the help of computers, to be able to help improve current medical techniques and achieve personalized medicine.
 
 ## About me
 - 📚 Systems Biology student at Maastricht University.
