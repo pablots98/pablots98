@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">a Systems Biology student at maastricht university. My passion is, thanks to the help of computers, to be able to help improve current medical techniques and achieve personalized medicine.</h3>
+<h3 align="center">Systems Biology student at maastricht university. My passion is, thanks to the help of computers, to be able to help improve current medical techniques and achieve personalized medicine.</h3>
 
 - 🔭 I’m currently doing an internship at Maastricht University working on [Evaluating Thresholding Algorithms to Create Context-Specific Model for Fibroblasts in Senescence](https://github.com/pablots98/Internship)
 
@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> R
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
