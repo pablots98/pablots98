@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">Systems Biology student at maastricht university. My passion is, thanks to the help of computers, to be able to help improve current medical techniques and achieve personalized medicine.</h3>
 
-- 🔭 I’m currently doing an internship at Maastricht University working on [Evaluating Thresholding Algorithms to Create Context-Specific Model for Fibroblasts in Senescence](https://github.com/pablots98/Internship)
+- 🔭 I did an internship at Maastricht University working on [Evaluating Thresholding Algorithms to Create Context-Specific Model for Fibroblasts in Senescence](https://github.com/pablots98/Internship)
 
 - 🌱 I’m currently learning **Modeling techniques, C++,and always willing to learn new things**
 
